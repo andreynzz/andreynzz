@@ -1,19 +1,15 @@
-## ℹ About
+# Hi, I'm Notsume 🖖
 
-- 🌱 &nbsp; Studying and digging deeper in **.Net, Aspnet and NestJS**.
-- 💬 &nbsp; Talk with me about **Game development, Websites, Mobile APPs and A.I.**
-- 📫 &nbsp; How to connect with me: **notsumez@gmail.com**.
-- ⚡ &nbsp; Fun fact about me: **Besides code, I like to draw pixel arts**.
+**Software Developer** specializing in **.NET, ASP.NET, and NestJS**.  
+I build websites, mobile apps, and games.
 
 ---
 
-## 💻 My tools and Tecnologies
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,docker,aws,mongo,prisma,cs,css,sass,html,mysql,nestjs,git,tailwind,angular,dotnet,jquery,php,postgres,vite,wordpress,godot,discordjs,npm)](https://skillicons.dev)
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,docker,aws,mongo,prisma,cs,css,sass,html,mysql,nestjs,git,github,tailwind,figma,angular,dotnet,jquery,linux,arch,obsidian,notion,php,postgres,postman,vercel,vite,wordpress,gmail,godot,bash,bootstrap,discord,bots,discordjs,eclipse,laravel,npm," />
-  </a>
-</p>
+### 🎨 Beyond Code
+* **Creative:** I love drawing **Pixel Art**.
+* **Connect:** [andrey.dhorapirola@gmail.com](mailto:andrey.dhorapirola@gmail.com)
 
 ---
-
