@@ -1,4 +1,4 @@
-# Hi, I'm Notsume 🖖
+# Hi, I'm Andrey 🖖
 
 **Software Developer** specializing in **.NET, ASP.NET, and NestJS**.  
 I build websites, mobile apps, and games.
