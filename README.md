@@ -1,15 +1,14 @@
-# Hi, I'm Andrey 🖖
+# Andrey Pirola
 
-**Software Developer** specializing in **.NET, ASP.NET, and NestJS**.  
-I build websites, mobile apps, and games.
+Software Developer working with web applications, integrations and developer tooling.
 
----
+Currently focused on **TypeScript, PHP, WordPress and Next.js**, with an emphasis on maintainable software, automation and testing.
 
-### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,docker,aws,mongo,prisma,cs,css,sass,html,mysql,nestjs,git,tailwind,angular,dotnet,jquery,php,postgres,vite,wordpress,godot,discordjs,npm)](https://skillicons.dev)
+### Stack
 
-### 🎨 Beyond Code
-* **Creative:** I love drawing **Pixel Art**.
-* **Connect:** [andrey.dhorapirola@gmail.com](mailto:andrey.dhorapirola@gmail.com)
+`TypeScript` `JavaScript` `PHP` `WordPress` `Next.js` `React` `Astro`
+`PostgreSQL` `MySQL` `Docker` `Git` `GitHub Actions`
 
----
+### Elsewhere
+
+[Portfolio](https://www.thereddoor.com.br) · [Email](mailto:andrey.dhorapirola@gmail.com)
